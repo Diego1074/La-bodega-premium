@@ -84,7 +84,7 @@ function App() {
   return (
     <div className="min-h-screen bg-zinc-800 font-sans">
       <Header toggleCart={toggleCart} itemCount={totalItemCount} />
-      <main className="pt-20">
+      <main className="pt-16">
         <Banner />
         <Testimonials />
         <Paralax />
