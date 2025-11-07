@@ -32,9 +32,9 @@ export const Testimonials = () => {
             <i class="fas fa-quote-left text-accent text-3xl mb-4"></i>
             <p class="text-gray-600 italic mb-4">
               "Su sección de Tequilas Añejos es insuperable. Encontré justo lo
-              que estaba buscando para mi colección personal. ¡Volveré por más! "
+              que estaba buscando para mi colección personal. ¡Volveré por más!"
             </p>
-            <div class="font-semibold text-gray-900">- Carlos A. Cali</div>
+            <div class="font-semibold text-gray-900">- Carlos A.  Cali</div>
           </div>
         </div>
       </div>
