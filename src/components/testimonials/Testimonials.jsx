@@ -22,7 +22,7 @@ export const Testimonials = () => {
           <div class="bg-white p-6 rounded-xl shadow-lg border-t-4 border-accent">
             <i class="fas fa-quote-left text-accent text-3xl mb-4"></i>
             <p class="text-gray-600 italic mb-4">
-              "Compré un Ron de Reserva para un regalo y quedé impresionado con
+              "Compré un Ron de Reserva para un regalo y quedé impresionada con
               la calidad y la presentación. El sitio web es muy fácil de usar."
             </p>
             <div class="font-semibold text-gray-900">- Sofía P., Medellín</div>
