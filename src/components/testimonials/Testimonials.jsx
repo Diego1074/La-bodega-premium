@@ -16,7 +16,7 @@ export const Testimonials = () => {
               servicio de entrega es rápido y la botella llegó perfectamente
               empacada. ¡Totalmente recomendado!"
             </p>
-            <div class="font-semibold text-gray-900">- Juan M., Bogotá</div>
+            <div class="font-semibold text-gray-900">- Juan M.  Bogotá</div>
           </div>
 
           <div class="bg-white p-6 rounded-xl shadow-lg border-t-4 border-accent">
@@ -25,16 +25,16 @@ export const Testimonials = () => {
               "Compré un Ron de Reserva para un regalo y quedé impresionada con
               la calidad y la presentación. El sitio web es muy fácil de usar."
             </p>
-            <div class="font-semibold text-gray-900">- Sofía P., Medellín</div>
+            <div class="font-semibold text-gray-900">- Sofía P.  Medellín</div>
           </div>
 
           <div class="bg-white p-6 rounded-xl shadow-lg border-t-4 border-accent">
             <i class="fas fa-quote-left text-accent text-3xl mb-4"></i>
             <p class="text-gray-600 italic mb-4">
               "Su sección de Tequilas Añejos es insuperable. Encontré justo lo
-              que estaba buscando para mi colección personal. Volveré por más."
+              que estaba buscando para mi colección personal. ¡Volveré por más! "
             </p>
-            <div class="font-semibold text-gray-900">- Carlos A., Cali</div>
+            <div class="font-semibold text-gray-900">- Carlos A. Cali</div>
           </div>
         </div>
       </div>
